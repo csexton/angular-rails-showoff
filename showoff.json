@@ -1,0 +1,7 @@
+{
+  "name": "Making AngularJS and Rails Play Nice Together",
+  "sections": [ {"section":"start"},
+                {"section":"intro"},
+                {"section":"rails"},
+                {"section":"end"} ]
+}
